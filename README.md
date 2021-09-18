@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sugandh_nair
-- 👀 I’m interested in Embedded Systems.
-- 🌱 I’m currently learning RTOS.
+- 👀 I’m interested in Embedded/Firmware Development.
+- 🌱 I’m currently learning x86 Assembly.
 - 📫 How to reach me sugandhnair26@gmail.com
 
 <!---
